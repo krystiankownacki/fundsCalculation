@@ -1,4 +1,4 @@
-package pl.kownacki.funds.frontend;
+package pl.kownacki.funds;
 
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
